@@ -1,5 +1,6 @@
 leftovers/
 music/
 wgan_main.py
-wgan_main.py
-
+wgan_main.ipynb
+.ipynb_checkpoints/
+.gitignore
